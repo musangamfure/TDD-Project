@@ -67,7 +67,7 @@ you have to those tools in your local machine.
 Clone the project.
 
 ```bash
-  git clone git@github.com:ShaliniNayan/TDD.git
+  git clone git@github.com/musangamfure/TDD.git
 ```
 
 Go to the project directory.
