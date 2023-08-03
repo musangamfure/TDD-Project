@@ -107,9 +107,7 @@ TDD tests here...
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **#test-driven development (TDD)**
-- **# idea is to write test**
-- **#define what the code are going to write does, and then write the code**
+- No  more future implementations
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
