@@ -12,7 +12,7 @@ RSpec.describe Solver do
 
     it 'returns the correct factorial for positive integers' do
       expect(subject.factorial(5)).to eq(120)
-      expect(subject.factorial(10)).to eq(3628800)
+      expect(subject.factorial(10)).to eq(3_628_800)
     end
 
     it 'raises an error for negative integers' do
